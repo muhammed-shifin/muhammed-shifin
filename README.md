@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muhammed Shifin 👋
 
-<!--
-**muhammed-shifin/muhammed-shifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Business Analytics professional with experience in healthcare operations, business intelligence, and data-driven process optimization.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Power BI
+* Python
+* Tableau
+* Excel
+* Data Visualization
+* Business Intelligence
+
+## 📊 Featured Projects
+
+* Enterprise Sales Analytics Dashboard (Power BI)
+* Global Layoffs Data Cleaning & Analysis (SQL)
+* Airbnb Market Analysis Dashboard (Tableau)
+* Web Scraping & Revenue Analysis (Python)
+
+## 🌐 Portfolio Website
+
+https://muhammed-shifin.github.io
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/muhammedshifin/
